@@ -16,3 +16,4 @@ npm run build
 ## Ref
 
 - [使用Vue.js和Vuex实现购物车场景](http://xlbd.me/vue-vuex-shopping-cart/)
+- [谈状态管理](https://kenberkeley.github.io/vue-demo/dist/docs/zh-cn/development/State-management.html)
